@@ -87,7 +87,7 @@
     flex-direction: column;
     justify-content: space-between;
     font-family: Josefin Sans !important;
-    font-size: 4em;
+    font-size: 3.5em;
     /* word-spacing: 10%; */
     padding-left: 0.5em;
     padding-top: 0.5em;
@@ -189,10 +189,22 @@ a {
     background-size: cover;
     opacity: 100%;
     display: flex;
-    align-items: center;
     justify-content: center;
     font-family: Josefin Sans;
     font-size: larger;
+}
+.contact-list p{
+    font-family: Spectral;
+    font-size: 24pt;
+    color: black;
+    justify-content: center;
+}
+.contact-list li{
+    justify-content: center;
+}
+
+.contact-list a:hover{
+    color: #a8a4e4;
 }
 
 .icon_button_image{
