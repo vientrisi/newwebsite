@@ -193,14 +193,28 @@ a {
     font-family: Josefin Sans;
     font-size: larger;
 }
+.contact-text{
+    font-family: Spectral;
+    font-size: 24pt;
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
 .contact-list p{
     font-family: Spectral;
     font-size: 24pt;
     color: black;
-    justify-content: center;
+    text-align: center;
 }
 .contact-list li{
     justify-content: center;
+    display: flex inline;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 0%;
+    display: center;
+    list-style-type: none
 }
 
 .contact-list a:hover{
