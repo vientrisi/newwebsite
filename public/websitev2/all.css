@@ -112,6 +112,9 @@
     font-size: 22pt;
 }
 
+.bio-box-text p{
+    margin-left: 20%;
+}
 .bio-box-text a {
     color: black;
     text-decoration: none;
@@ -165,6 +168,26 @@ a {
     font-size: larger;
 }
 
+.comms-text{
+    font-family: Spectral;
+    font-size: 24pt;
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+
+.comms-pics{
+    display: flex;
+    justify-content: center;
+    height: 30vw;
+    width: 30vw;
+    padding-left: 35%;
+    border-color: #93d8ff;
+    border-width: 5px
+    border-style: solid;
+}
+
 .proj-bg {
     background-image: url("images/proj.bg.jpg");
     background-color: var(--bg);
@@ -201,6 +224,7 @@ a {
     margin-right: 30%;
     text-align: center;
 }
+
 .contact-list p{
     font-family: Spectral;
     font-size: 24pt;
@@ -216,10 +240,12 @@ a {
     display: center;
     list-style-type: none
 }
-
-.contact-list a:hover{
-    color: #a8a4e4;
+.contact-list a:hover {
+    color: #a1a2e5;
+    background-color: none;
 }
+
+
 
 .icon_button_image{
     position: right;
