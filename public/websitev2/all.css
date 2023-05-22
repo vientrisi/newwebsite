@@ -112,9 +112,10 @@
     font-size: 22pt;
 }
 
-.bio-box-text p{
+.bio-box-text p {
     margin-left: 20%;
 }
+
 .bio-box-text a {
     color: black;
     text-decoration: none;
@@ -126,40 +127,40 @@
 }
 
 .bio-bg {
-        background-image: url("images/about_bg.jpg");
-        background-color: var(--bg);
-        width: 100vw;
-        height: 10vh;
-        background-repeat: no-repeat;
-        background-size: cover;
-        opacity: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-family: Josefin Sans;
-        font-size: larger;
+    background-image: url("images/about_bg.jpg");
+    background-color: var(--bg);
+    width: 100vw;
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Josefin Sans;
+    font-size: larger;
 }
 
 
-.bio-text{
+.bio-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
     margin-left: 30%;
     margin-right: 30%;
-    text-align: center; 
+    text-align: center;
 }
 
 a {
     text-decoration: none;
 }
 
-.left-nav a:hover{
-    color:#9d82ba;
+.left-nav a:hover {
+    color: #9d82ba;
     background-color: none;
 }
 
-.left-nav a{
+.left-nav a {
     color: black;
 }
 
@@ -178,7 +179,7 @@ a {
     font-size: larger;
 }
 
-.comms-text{
+.comms-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
@@ -187,7 +188,7 @@ a {
     text-align: center;
 }
 
-.comms-pics{
+.comms-pics {
     display: flex;
     justify-content: center;
     height: 30vw;
@@ -212,7 +213,7 @@ a {
     font-size: larger;
 }
 
-.proj-text{
+.proj-text {
     font-family: Spectral;
     font-size: 24pt;
     display: inline-flex;
@@ -220,8 +221,8 @@ a {
     text-align: center;
 }
 
-.video{
-    display:flex;
+.video {
+    display: flex;
     margin-top: 25%;
     width: 75vw;
     height: 30vh;
@@ -240,7 +241,8 @@ a {
     font-family: Josefin Sans;
     font-size: larger;
 }
-.contact-text{
+
+.contact-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
@@ -249,13 +251,14 @@ a {
     text-align: center;
 }
 
-.contact-list p{
+.contact-list p {
     font-family: Spectral;
     font-size: 24pt;
     color: black;
     text-align: center;
 }
-.contact-list li{
+
+.contact-list li {
     justify-content: center;
     display: flex inline;
     margin-left: 30%;
@@ -264,17 +267,20 @@ a {
     display: center;
     list-style-type: none
 }
+
 .contact-list a:hover {
     color: #a1a2e5;
     background-color: none;
 }
 
-.alt img{
+.alt img {
     width: 20Vw;
-    height:25vw;
+    height: 25vw;
     justify-content: center;
     padding-left: 40VW;
-}.background {
+}
+
+.background {
     padding: 0;
     margin: 0;
 }
@@ -388,9 +394,10 @@ a {
     font-size: 22pt;
 }
 
-.bio-box-text p{
+.bio-box-text p {
     margin-left: 20%;
 }
+
 .bio-box-text a {
     color: black;
     text-decoration: none;
@@ -402,30 +409,30 @@ a {
 }
 
 .bio-bg {
-        background-image: url("images/about_bg.jpg");
-        background-color: var(--bg);
-        width: 100vw;
-        height: 10vh;
-        background-repeat: no-repeat;
-        background-size: cover;
-        opacity: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-family: Josefin Sans;
-        font-size: larger;
+    background-image: url("images/about_bg.jpg");
+    background-color: var(--bg);
+    width: 100vw;
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Josefin Sans;
+    font-size: larger;
 }
 
 a {
     text-decoration: none;
 }
 
-.left-nav a:hover{
-    color:#9d82ba;
+.left-nav a:hover {
+    color: #9d82ba;
     background-color: none;
 }
 
-.left-nav a{
+.left-nav a {
     color: black;
 }
 
@@ -444,7 +451,7 @@ a {
     font-size: larger;
 }
 
-.comms-text{
+.comms-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
@@ -453,7 +460,7 @@ a {
     text-align: center;
 }
 
-.comms-pics{
+.comms-pics {
     display: flex;
     justify-content: center;
     height: 30vw;
@@ -478,7 +485,7 @@ a {
     font-size: larger;
 }
 
-.proj-text{
+.proj-text {
     font-family: Spectral;
     font-size: 24pt;
     display: inline-flex;
@@ -486,8 +493,8 @@ a {
     text-align: center;
 }
 
-.video{
-    display:flex;
+.video {
+    display: flex;
     margin-top: 25%;
     width: 75vw;
     height: 30vh;
@@ -506,7 +513,8 @@ a {
     font-family: Josefin Sans;
     font-size: larger;
 }
-.contact-text{
+
+.contact-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
@@ -515,13 +523,14 @@ a {
     text-align: center;
 }
 
-.contact-list p{
+.contact-list p {
     font-family: Spectral;
     font-size: 24pt;
     color: black;
     text-align: center;
 }
-.contact-list li{
+
+.contact-list li {
     justify-content: center;
     display: flex inline;
     margin-left: 30%;
@@ -530,17 +539,20 @@ a {
     display: center;
     list-style-type: none
 }
+
 .contact-list a:hover {
     color: #a1a2e5;
     background-color: none;
 }
 
-.alt img{
+.alt img {
     width: 20Vw;
-    height:25vw;
+    height: 25vw;
     justify-content: center;
     padding-left: 40VW;
-}.background {
+}
+
+.background {
     padding: 0;
     margin: 0;
 }
@@ -654,9 +666,10 @@ a {
     font-size: 22pt;
 }
 
-.bio-box-text p{
+.bio-box-text p {
     margin-left: 20%;
 }
+
 .bio-box-text a {
     color: black;
     text-decoration: none;
@@ -668,30 +681,30 @@ a {
 }
 
 .bio-bg {
-        background-image: url("images/about_bg.jpg");
-        background-color: var(--bg);
-        width: 100vw;
-        height: 10vh;
-        background-repeat: no-repeat;
-        background-size: cover;
-        opacity: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-family: Josefin Sans;
-        font-size: larger;
+    background-image: url("images/about_bg.jpg");
+    background-color: var(--bg);
+    width: 100vw;
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Josefin Sans;
+    font-size: larger;
 }
 
 a {
     text-decoration: none;
 }
 
-.left-nav a:hover{
-    color:#9d82ba;
+.left-nav a:hover {
+    color: #9d82ba;
     background-color: none;
 }
 
-.left-nav a{
+.left-nav a {
     color: black;
 }
 
@@ -710,7 +723,7 @@ a {
     font-size: larger;
 }
 
-.comms-text{
+.comms-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
@@ -719,7 +732,7 @@ a {
     text-align: center;
 }
 
-.comms-pics{
+.comms-pics {
     display: flex;
     justify-content: center;
     height: 30vw;
@@ -744,7 +757,7 @@ a {
     font-size: larger;
 }
 
-.proj-text{
+.proj-text {
     font-family: Spectral;
     font-size: 24pt;
     display: inline-flex;
@@ -752,8 +765,8 @@ a {
     text-align: center;
 }
 
-.video{
-    display:flex;
+.video {
+    display: flex;
     margin-top: 25%;
     width: 75vw;
     height: 30vh;
@@ -772,7 +785,8 @@ a {
     font-family: Josefin Sans;
     font-size: larger;
 }
-.contact-text{
+
+.contact-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
@@ -781,13 +795,14 @@ a {
     text-align: center;
 }
 
-.contact-list p{
+.contact-list p {
     font-family: Spectral;
     font-size: 24pt;
     color: black;
     text-align: center;
 }
-.contact-list li{
+
+.contact-list li {
     justify-content: center;
     display: flex inline;
     margin-left: 30%;
@@ -796,17 +811,20 @@ a {
     display: center;
     list-style-type: none
 }
+
 .contact-list a:hover {
     color: #a1a2e5;
     background-color: none;
 }
 
-.alt img{
+.alt img {
     width: 20Vw;
-    height:25vw;
+    height: 25vw;
     justify-content: center;
     padding-left: 40VW;
-}.background {
+}
+
+.background {
     padding: 0;
     margin: 0;
 }
@@ -920,9 +938,10 @@ a {
     font-size: 22pt;
 }
 
-.bio-box-text p{
+.bio-box-text p {
     margin-left: 20%;
 }
+
 .bio-box-text a {
     color: black;
     text-decoration: none;
@@ -934,30 +953,30 @@ a {
 }
 
 .bio-bg {
-        background-image: url("images/about_bg.jpg");
-        background-color: var(--bg);
-        width: 100vw;
-        height: 10vh;
-        background-repeat: no-repeat;
-        background-size: cover;
-        opacity: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-family: Josefin Sans;
-        font-size: larger;
+    background-image: url("images/about_bg.jpg");
+    background-color: var(--bg);
+    width: 100vw;
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Josefin Sans;
+    font-size: larger;
 }
 
 a {
     text-decoration: none;
 }
 
-.left-nav a:hover{
-    color:#9d82ba;
+.left-nav a:hover {
+    color: #9d82ba;
     background-color: none;
 }
 
-.left-nav a{
+.left-nav a {
     color: black;
 }
 
@@ -976,7 +995,7 @@ a {
     font-size: larger;
 }
 
-.comms-text{
+.comms-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
@@ -985,7 +1004,7 @@ a {
     text-align: center;
 }
 
-.comms-pics{
+.comms-pics {
     display: flex;
     justify-content: center;
     height: 30vw;
@@ -1010,7 +1029,7 @@ a {
     font-size: larger;
 }
 
-.proj-text{
+.proj-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
@@ -1018,12 +1037,12 @@ a {
     text-align: center;
 }
 
-.video{
-    display:flex;
+.video {
+    display: flex;
     margin-top: 35vh;
     width: 75vw;
     height: 30vh;
-    position:sticky;
+    position: sticky;
 }
 
 .contact-bg {
@@ -1039,7 +1058,8 @@ a {
     font-family: Josefin Sans;
     font-size: larger;
 }
-.contact-text{
+
+.contact-text {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
@@ -1048,13 +1068,14 @@ a {
     text-align: center;
 }
 
-.contact-list p{
+.contact-list p {
     font-family: Spectral;
     font-size: 24pt;
     color: black;
     text-align: center;
 }
-.contact-list li{
+
+.contact-list li {
     justify-content: center;
     display: flex inline;
     margin-left: 30%;
@@ -1063,17 +1084,19 @@ a {
     display: center;
     list-style-type: none
 }
+
 .contact-list a:hover {
     color: #a1a2e5;
     background-color: none;
 }
-.icon_button img{
+
+.icon_button img {
     width: 100vw;
 }
 
-.alt img{
+.alt img {
     width: 20Vw;
-    height:25vw;
+    height: 25vw;
     justify-content: center;
     padding-left: 40VW;
 }
