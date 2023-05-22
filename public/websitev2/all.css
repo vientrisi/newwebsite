@@ -31,13 +31,13 @@
     margin: 0;
 }
 
-.projects {
+.portfolio {
     top: 100vh;
     width: 100%;
     position: absolute;
 }
 
-.projects h1 {
+.portfolio h1 {
     font-family: Josefin Sans;
     text-align: center;
     font-size: 4em;
@@ -312,13 +312,13 @@ a {
     margin: 0;
 }
 
-.projects {
+.portfolio {
     top: 100vh;
     width: 100%;
     position: absolute;
 }
 
-.projects h1 {
+.portfolio h1 {
     font-family: Josefin Sans;
     text-align: center;
     font-size: 4em;
@@ -583,13 +583,14 @@ a {
     margin: 0;
 }
 
-.projects {
+.portfolio {
+    background-color: ;
     top: 100vh;
     width: 100%;
     position: absolute;
 }
 
-.projects h1 {
+.portfolio h1 {
     font-family: Josefin Sans;
     text-align: center;
     font-size: 4em;
@@ -854,13 +855,14 @@ a {
     margin: 0;
 }
 
-.projects {
+.portfolio {
+    background-color: #dacde8;
     top: 100vh;
     width: 100%;
     position: absolute;
 }
 
-.projects h1 {
+.portfolio h1 {
     font-family: Josefin Sans;
     text-align: center;
     font-size: 4em;
