@@ -1,6 +1,20 @@
+@media (prefers-color-scheme: light) {
+    :root {
+        --background-color: #dacde8;
+        ;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: rgb(141, 141, 141);
+    }
+}
+
 .background {
     padding: 0;
     margin: 0;
+    background-color: var(background-color);
 }
 
 .main-bg {
@@ -18,7 +32,6 @@
 }
 
 .projects {
-    background-color: #dacde8;
     top: 100vh;
     width: 100%;
     position: absolute;
@@ -300,7 +313,6 @@ a {
 }
 
 .projects {
-    background-color: #dacde8;
     top: 100vh;
     width: 100%;
     position: absolute;
@@ -572,7 +584,6 @@ a {
 }
 
 .projects {
-    background-color: #dacde8;
     top: 100vh;
     width: 100%;
     position: absolute;
@@ -844,7 +855,6 @@ a {
 }
 
 .projects {
-    background-color: #dacde8;
     top: 100vh;
     width: 100%;
     position: absolute;
@@ -1100,3 +1110,5 @@ a {
     justify-content: center;
     padding-left: 40VW;
 }
+
+/*ALL NEW STUFF UNDER HERE*/
