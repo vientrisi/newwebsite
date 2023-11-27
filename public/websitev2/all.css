@@ -156,13 +156,32 @@
 }
 
 
-.bio-text {
+.bio-text-a {
+    font-family: Spectral;
+    font-size: 24pt;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 50%;
+    margin-top: 5%;
+    text-align: left;
+}
+
+.bio-text-b {
     font-family: Spectral;
     font-size: 24pt;
     display: flex;
     margin-left: 30%;
     margin-right: 30%;
     text-align: center;
+}
+
+.bio-text-c{
+    font-family: Spectral;
+    font-size: 24pt;
+    display: flex;
+    margin-left: 50%;
+    margin-right: 5%;
+    text-align: right;
 }
 
 a {
